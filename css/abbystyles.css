@@ -1,0 +1,16 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  color: #054778;
+  text-align: justify;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: serif;
+  font-size: 1.2rem;
+  line-height: 1.3rem;
+  background-color: #b2b2b2;
+}
