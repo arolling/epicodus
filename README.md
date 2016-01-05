@@ -1,5 +1,6 @@
 #README
 
+
 ##Simple webpages to show off our talents
 
 ###Favourite Canadian Stuff
@@ -15,3 +16,12 @@
 * Terminal
 * Git
 * Atom
+
+
+Held under the **GPL** or whatever.
+
+Created by
+* Alissa Paluska
+* Abby Rolling
+
+
